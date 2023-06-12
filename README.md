@@ -11,3 +11,5 @@
 ## run the server in another window of the terminel :
 
 > python manage.py runserver
+
+the PR : https://github.com/Nawrssama/django-snacks/pull/1
